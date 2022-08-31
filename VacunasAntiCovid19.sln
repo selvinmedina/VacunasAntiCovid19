@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VacunasAntiCovid19", "VacunasAntiCovid19\VacunasAntiCovid19.csproj", "{6D370759-E376-46AA-B478-ED2E1DC470F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VacunasAntiCovid19", "VacunasAntiCovid19\VacunasAntiCovid19.csproj", "{6D370759-E376-46AA-B478-ED2E1DC470F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SelvinMedina.Infrastructure.Core", "..\..\c#\SelvinMedina.Infrastructure.Core\SelvinMedina.Infrastructure.Core\SelvinMedina.Infrastructure.Core.csproj", "{420B56CB-4689-418A-8D09-9F97B0ECB69C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{6D370759-E376-46AA-B478-ED2E1DC470F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D370759-E376-46AA-B478-ED2E1DC470F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D370759-E376-46AA-B478-ED2E1DC470F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{420B56CB-4689-418A-8D09-9F97B0ECB69C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{420B56CB-4689-418A-8D09-9F97B0ECB69C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{420B56CB-4689-418A-8D09-9F97B0ECB69C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{420B56CB-4689-418A-8D09-9F97B0ECB69C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
